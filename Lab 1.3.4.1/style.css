@@ -1,0 +1,51 @@
+body {
+    background-color: darkgrey;
+    margin: 0;
+    font-family: Comfortaa;
+}
+
+header{
+    text-align: right;
+    padding: 10px
+}
+
+.container{
+    background-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer{
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
+
+header >input[type="button"]{
+    font-size: 20px;
+    border: 0;
+    font-family: Comfortaa;
+}
+
+footer >input[type="button"]{
+    font-size: 20px;
+    border: 0;
+    font-family: Comfortaa;
+}
+
+.Sub{
+    font-size: 20px;
+    color: dodgerblue;
+    border: 0;
+    font-family: Comfortaa;
+}
+
+div p>input[type="button"]{
+    font-size: 20px;
+    color: red;
+    border: 0;
+    font-family: Comfortaa;
+}

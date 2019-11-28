@@ -1,0 +1,32 @@
+header{
+    padding: 15px;
+    background-color: grey;
+}
+
+div {
+    background-color: grey;
+    padding: 15px;
+    margin-top:40px;
+    display: inline-block;
+}
+
+button{
+    padding: 15px;
+    color: black
+}
+
+header>button{
+    margin-right: 20px;
+    background-color: blueviolet;
+}
+
+div>button{
+    width: 45%;
+    margin-right: 5%;
+    box-sizing: border-box;
+    background-color: darkslategrayr;
+    border: 1px solid orange;
+}
+div>button:last-child{
+    margin-right: 0;
+}
