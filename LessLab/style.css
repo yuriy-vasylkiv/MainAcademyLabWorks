@@ -1,0 +1,35 @@
+header {
+  background-color: #d5d5d5;
+}
+header button {
+  color: violet;
+  background-color: #d5d5d5;
+  border: 0;
+  outline: none;
+}
+header button:hover {
+  color: #000;
+  cursor: pointer;
+}
+.main {
+  background-color: #d5cc92;
+}
+.main-article {
+  font-size: large;
+}
+.main-article p {
+  padding: 8px;
+}
+.main-article p:last-child {
+  margin-bottom: 0;
+}
+footer {
+  background-color: #5a2ad5;
+}
+footer p {
+  font-size: smaller;
+}
+footer p:first-child {
+  margin-top: 0;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,120 @@
+body{
+    height: 100vh;
+    background: #C6FFDD;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.wrap{
+    top: 80%;
+    position: relative;
+    height: 100vh;
+
+}
+.red{
+    box-sizing: border-box;
+    position: absolute;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    border-radius: 50%;
+    border: 40px solid red;
+    animation-delay:6s
+}
+.orange{
+    box-sizing: border-box;
+    top: 20px;
+    left: 20px;
+    position: absolute;
+    height: 460px;
+    width: 460px;
+    margin: auto;
+    border-radius: 50%;
+    border: 40px solid orange;
+    animation-delay:5s
+}
+.yellow{
+    box-sizing: border-box;
+    top: 40px;
+    left: 40px;
+    position: absolute;
+    height: 420px;
+    width: 420px;
+    margin: auto;
+    border-radius: 50%;
+    border: 40px solid yellow;
+    animation-delay:4s
+}
+.green{
+    box-sizing: border-box;
+    top: 60px;
+    left: 60px;
+    position: absolute;
+    height: 380px;
+    width: 380px;
+    margin: auto;
+    border-radius: 50%;
+    border: 40px solid green;
+    animation-delay:3s
+}
+.lightblue{
+    box-sizing: border-box;
+    top: 80px;
+    left: 80px;
+    position: absolute;
+    height: 340px;
+    width: 340px;
+    margin: auto;
+    border-radius: 50%;
+    border: 40px solid dodgerblue;
+    animation-delay: 2s
+}
+.blue{
+    box-sizing: border-box;
+    top: 100px;
+    left: 100px;
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    border-radius: 50%;
+    border: 40px solid blue;
+    animation-delay: 1s;
+}
+.violet{
+    box-sizing: border-box;
+    top: 120px;
+    left: 120px;
+    position: absolute;
+    height: 260px;
+    width: 260px;
+    margin: auto;
+    border-radius: 50%;
+    border: 20px solid darkviolet;
+}
+
+.string{
+    box-shadow: 1px -4px 15px #FFFFFF;
+    opacity: 0.6;
+    animation-name: rainbow;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes rainbow{
+    from {
+        box-shadow: 1px -4px 15px #FFFFFF
+    }
+    to {
+        box-shadow: 1px -4px 15px black;
+    }
+}
+.cloud{
+    position: relative;
+}
+.cloud>div{
+    position: absolute;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+
+}

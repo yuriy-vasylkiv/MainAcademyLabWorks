@@ -1,0 +1,85 @@
+body{
+    max-width: 800px;
+    margin: auto;
+}
+.Content1{
+    display: flex;
+}
+.Content1>div{
+    background-color: darkgray;
+    padding: 20px;
+    width: 100px;
+    margin: 10px;
+}
+.c2{
+    background-color: darkgray;
+    padding: 20px;
+    width: 100px;
+    margin: 10px;
+    flex-grow: 2;
+}
+.c3{
+    flex-grow: 4;
+    text-align: right;
+    color: white;
+}
+.c4{
+    background-color: darkgray;
+    padding: 20px;
+    width: 100px;
+    margin: 10px;
+    flex-grow: 2;
+}
+.content2{
+    margin: 20px 10px;
+}
+.horizontalline{
+    height: 2px;
+    background-color: darkgray;
+    margin: 0 10px;
+}
+.aside{
+    background-color: darkgray;
+    color: white;
+    margin: 10px;
+}
+.upper>div{
+    margin: 10px;
+}
+.textblock{
+    background-color: gray;
+    color: white;
+}
+.uppercontent{
+    display: flex;
+}
+.container{
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start ;
+}
+.square{
+    background-color: gray;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+.content3{
+    display: flex;
+}
+.content3>div{
+    background-color: darkgray;
+    padding: 20px;
+    width: 100px;
+    margin: 10px;
+}
+.content4{
+    display: flex;
+}
+.flexbox{
+    flex-grow: 2;
+    display: flex;
+    flex-direction: column;
+}
+

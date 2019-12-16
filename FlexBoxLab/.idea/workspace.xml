@@ -1,28 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db99b214-0af5-4928-b90f-9acab458e308" name="Default Changelist" comment="" />
+    <list default="true" id="6f3e3946-a535-4f78-90e4-a332b9cc68e8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1TIVxbmFKej3uaw6YRnB5lMjuqj" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1UZUxeFSFo105GoI97tgRHjZetL" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab Work 1.3.1/Tables.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,16 +55,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="db99b214-0af5-4928-b90f-9acab458e308" name="Default Changelist" comment="" />
-      <created>1573147843737</created>
+      <changelist id="6f3e3946-a535-4f78-90e4-a332b9cc68e8" name="Default Changelist" comment="" />
+      <created>1575563858244</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573147843737</updated>
-      <workItem from="1573147846358" duration="4816000" />
-      <workItem from="1573286942605" duration="239000" />
-      <workItem from="1573290923870" duration="2068000" />
-      <workItem from="1573293807964" duration="5000" />
-      <workItem from="1573754992364" duration="1198000" />
+      <updated>1575563858244</updated>
+      <workItem from="1575563859504" duration="4904000" />
+      <workItem from="1576271957118" duration="8000" />
+      <workItem from="1576497579562" duration="16000" />
+      <workItem from="1576500637571" duration="49000" />
     </task>
     <servers />
   </component>

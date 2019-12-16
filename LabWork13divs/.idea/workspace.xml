@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76c8c64a-6d25-4e22-b9cf-a160a0b15a3e" name="Default Changelist" comment="" />
+    <list default="true" id="d8d6334b-e796-43df-b37f-62f18867ad8d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -16,12 +21,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1U7LyK1GqidNbQYAePM0AdpSiAT" />
+  <component name="ProjectId" id="1UZlPiI61jGdwn15LzY1cpOnPjV" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FlexBoxLab" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,14 +46,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="76c8c64a-6d25-4e22-b9cf-a160a0b15a3e" name="Default Changelist" comment="" />
-      <created>1574702939924</created>
+      <changelist id="d8d6334b-e796-43df-b37f-62f18867ad8d" name="Default Changelist" comment="" />
+      <created>1575571975885</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574702939924</updated>
-      <workItem from="1574702941302" duration="4544000" />
-      <workItem from="1574710760512" duration="1928000" />
-      <workItem from="1574786869996" duration="100000" />
+      <updated>1575571975885</updated>
+      <workItem from="1575571977073" duration="2465000" />
+      <workItem from="1576168886652" duration="155000" />
+      <workItem from="1576271969333" duration="3002000" />
+      <workItem from="1576311321897" duration="18000" />
+      <workItem from="1576497601821" duration="4332000" />
     </task>
     <servers />
   </component>

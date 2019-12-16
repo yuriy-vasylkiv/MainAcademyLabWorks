@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    font-family: 'Titillium Web', sans-serif;
+}
+header{
+    background-color: yellowgreen;
+    color: white;
+    text-align: center;
+    height: 300px;
+}
+nav{
+    display: flex;
+    height: 50px;
+    background-color: black;
+    flex-wrap: wrap;
+}
+nav >button {
+    background-color: black;
+    color: white;
+    outline: none;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    padding:  0 20px;
+}
+.main-Content{
+    display: flex;
+}
+.LeftBar{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+}
+.LeftBar >div{
+    padding: 20px;
+}
+.img{
+    height: 200px;
+    background-color: gainsboro;
+
+}
+.mainContainer{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
+.mainContainer >div{
+    padding: 20px;
+}
